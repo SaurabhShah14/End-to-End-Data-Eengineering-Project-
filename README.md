@@ -18,3 +18,4 @@ Data Visualization: Improved my ability to present data insights effectively usi
 This project not only solidified my technical expertise but also reinforced my passion for data engineering and analytics. I am eager to apply these skills in future endeavors and contribute to innovative data solutions.
 
 Thank you for your support, and I look forward to connecting with others in the data community! Feel free to customize any part of this post to better reflect your personal style or specific experiences!
+![image](https://github.com/user-attachments/assets/724ef441-c6f0-421a-a3b7-c093f2a11b97)
